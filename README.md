@@ -16,4 +16,4 @@
 </code></pre>
 
 ## Preview
-<img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/3c71cc99d2fc1c12a3d3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210716T043659Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=23dc3c54de3ce38cc9b7556061db75bd3aa92faf3fb825dcf453dfdaec092be6" alt="" style="">
+![3c71cc99d2fc1c12a3d3](https://user-images.githubusercontent.com/65993425/125893180-d10242bf-d1e5-4c70-a533-089fd2001e72.jpg)
